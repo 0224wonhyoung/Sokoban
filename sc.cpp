@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <bangtal.h>
-#include <time.h>
-#include <sys/timeb.h>
 
 #define EMPTY	-2	// 아무것도 없는 빈공간 (벽 외부)
 #define WALL	-1	// 벽							
